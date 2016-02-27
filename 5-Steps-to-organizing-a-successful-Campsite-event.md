@@ -8,8 +8,6 @@ With a little planning and communication, having a successful Campsite event can
 
 * Find a suitable location. Campsite events should always take place in a public space (library, cafe, hackerspace).
 
-* Create an event on your Campsite's Facebook page for the event, and link to it on your Campsite Facebook Group page.
-
 * Follow-up with reminder posts for the event 1 week prior to the event and then again the day before the event.
 
 * On the day of the event, arrive early, get set up, greet members, and kick the event off. Don't forget to thank everyone afterwards and extend invites for future meetups.
